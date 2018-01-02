@@ -1,0 +1,8 @@
+{
+    "default": true,
+
+    "blanks-around-headers": false,
+    "blanks-around-fences": false,
+    "line-length": false,
+    "fenced-code-language": false
+}
